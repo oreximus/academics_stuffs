@@ -49,7 +49,7 @@
     1. Series Blood Relations & Family Tree
     2. Simple & Compound interest
     3. Direction Sense
-    4. Puzzles: 1 comprehension question similar to the Logical Reasoning sectioon of CAT [Higher difficulty].
+    4. Puzzles: 1 comprehension question similar to the Logical Reasoning section of CAT [Higher difficulty].
     5. Seating Arrangement
     6. Venn Diagram
     7. Data Sufficiency
