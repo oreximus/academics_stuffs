@@ -14,7 +14,6 @@
 | Mathematics | Easy to Difficult | 65 |
 | Learability | Easy to Difficult | 65 |
 | Total | | **200** |
-|-------|-|---------|
 
 ## General Guidelines
 
