@@ -25,3 +25,17 @@
 - a sequence of stored instructions
 
 - a piece of creative art
+
+### Hardware Architecture
+
+#### Generic Computer
+
+![img02](imgs/img02.png)
+
+Brain in Computer --> Microprocessor
+
+Memory and CPU works together like: Processor Demands Instructions and Memory which have stored instructions in it, delivers to the Processor as per demand.
+
+![img03](imgs/img03.png)
+
+
