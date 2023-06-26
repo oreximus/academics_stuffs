@@ -20,9 +20,9 @@
 
 - First two point are related to programming, how you can a program!
 
-- Last tow points are about Computer Science, (i.e. How you can that how a program is much efficient that other ) 
+- Last two points are about Computer Science, (i.e. How you will know that one program is efficient than other program. ) 
 
-- Learning to program, represent knowledge with data structure.
+- Learning to program, representing the knowledge with data structure.
 
 - How do you good code, readable and understandable!
 
@@ -37,8 +37,8 @@
 
 #### Kinds of Calculation that Computers Do:
 
-    - One are calculations are built-into language. (i.e. addition, subtraction, multiplication etc.)
-    - Other that you define by using the fundamental one.
+- One are calculations are built-into language. (i.e. addition, subtraction, multiplication etc.)
+- Other that you define by using the fundamental one.
 
 **COMPUTERS ONLY DO WHAT YOU TELL THEM TO DO**
 
