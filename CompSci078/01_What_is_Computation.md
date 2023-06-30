@@ -59,3 +59,43 @@
 **Imperative Knowledge Recipe Example**
 
 ![img06](imgs/img06.png)
+
+#### Types of Computers
+
+![img07](imgs/img07.png)
+
+#### Basic Working of a Computer
+
+![img08](imgs/img08.png)
+
+**Stored Program Computer**:
+
+![img09](imgs/img09.png)
+
+#### Alan Turing 6 Instruction to Compute Anything!
+
+![img10](imgs/img10.png)
+
+- Alan Turing describes that you only need these 6 Basic Primitives to Compute anything:
+    1. Move Left
+    2. Move Right
+    3. Read
+    4. Write
+    5. Scan
+    6. Do Nothing
+
+- Using those 6 Instructions programming language came about!
+
+- Important thing that came out of it was that If you can write something in one programming like python or anything the same can be done in some other programming language.
+
+#### Creating Expressions
+
+![img11](imgs/img11.png)
+
+- these are going to be the combinations of primitives!
+
+#### For Example, Take English Language:
+
+![img12](imgs/img12.png)
+
+
