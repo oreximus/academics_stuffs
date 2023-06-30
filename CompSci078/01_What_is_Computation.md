@@ -46,4 +46,16 @@
 
 ![img04](imgs/img04.png)
 
+**Declarative Knowledge**
+- statements of fact.
 
+**Imperative Knowledge**
+- sequence of steps
+
+**A Numerical Example**:
+
+![img05](imgs/img05.png)
+
+**Imperative Knowledge Recipe Example**
+
+![img06](imgs/img06.png)
