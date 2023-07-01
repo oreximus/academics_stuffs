@@ -98,4 +98,13 @@
 
 ![img12](imgs/img12.png)
 
+- the primitives constructs are "**words**".
+- using these construct we create phrases.
 
+for example:
+
+![img13](imgs/img13.png)
+
+- When you create syntantically valid expressions, you have to think about static semantics of you phrase, of you expressions.
+
+![img14](imgs/img14.png)
