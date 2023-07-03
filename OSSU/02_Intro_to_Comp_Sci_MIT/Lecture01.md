@@ -22,7 +22,7 @@
 
 ## Things that we are going to learn:
 
-![imgs/img02.png]
+![img02](imgs/img02.png)
 
 1. Learning how to program? How to represent Knowledge with Data Structure!
 
