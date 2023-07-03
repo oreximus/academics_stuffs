@@ -1,6 +1,6 @@
 # Introduction to Computer Science
 
-## By: Anna Bell
+## By: Dr. Anna Bell
 
 ## Contents:
 
