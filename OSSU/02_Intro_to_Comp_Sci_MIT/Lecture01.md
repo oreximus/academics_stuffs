@@ -164,7 +164,7 @@ and moving data.
 
 ### Objects
 
-- Python programs manipulat this data objects
+- Python programs manipulate this data objects
 - All Objects in python have the data type, it tells python to kind of operation python should do on these objects.
 
 **Objects Types**:
